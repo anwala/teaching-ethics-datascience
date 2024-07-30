@@ -15,6 +15,7 @@ Here, we will explore how our interaction with technology generates data and inv
 ## In-class individual task
 
 * Create your detailed timestamped digital footprint for a normal day. E.g.,
+
 | **Item** | **Time** | **Activity**       | **Digital trace**                                                     |
 |----------|----------|--------------------|-----------------------------------------------------------------------|
 | 1.       | 6am      | Check weather      | Location data                                                         |
