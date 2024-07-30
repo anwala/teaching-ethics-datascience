@@ -21,7 +21,7 @@ Bias," ProPublica (May 23, 2016)](https://web.archive.org/web/20240630145925/htt
 
 * [Heaven, Will Douglas. 2021. "Bias isn't the only problem with credit scores—and no, AI can't help." MIT Technology Review.](https://web.archive.org/web/20240330140827/https://www.technologyreview.com/2021/06/17/1026519/racial-bias-noisy-data-credit-scores-mortgage-loans-fairness-machine-learning/)
 
-* * [Martin, Kirsten. "Recommending an Insurrection: Facebook and Recommendation Algorithms" In Ethics of Data and Analytics, pp. 225-239. Auerbach Publications, 2022.](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/g9pr7p/alma991033870654103196)
+* [Martin, Kirsten. "Recommending an Insurrection: Facebook and Recommendation Algorithms" In Ethics of Data and Analytics, pp. 225-239. Auerbach Publications, 2022.](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/g9pr7p/alma991033870654103196)
 
 ## In-class individual tasks
 

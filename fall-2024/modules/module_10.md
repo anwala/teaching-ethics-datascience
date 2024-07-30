@@ -8,7 +8,7 @@ Here, we will explore the limits of metrics, including the fact that they remain
 
 ## Concepts
 
-* * [Thomas, Rachel. 2019. "The problem with metrics is a big problem for AI." 
+* [Thomas, Rachel. 2019. "The problem with metrics is a big problem for AI." 
 fast.ai](https://www.fast.ai/posts/2019-09-24-metrics.html)
 
 ## Cases

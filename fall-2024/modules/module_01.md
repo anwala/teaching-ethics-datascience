@@ -1,4 +1,4 @@
-# People as data generator & ethical framework
+# People as data generators & ethical framework
 
 ## Introduction
 
@@ -14,10 +14,17 @@ Here, we will explore how our interaction with technology generates data and inv
 
 ## In-class individual task
 
-* Create your digital footprint your for a normal day
+* Create your detailed timestamped digital footprint for a normal day. E.g.,
+| **Item** | **Time** | **Activity**       | **Digital trace**                                                     |
+|----------|----------|--------------------|-----------------------------------------------------------------------|
+| 1.       | 6am      | Check weather      | Location data                                                         |
+| 2.       | 6am      | Check smart watch  | Location, Heart rate, sleep information, physical activity level, etc |
+| 3.       | 6:30 am  | Check school email | All student/faculty interactions                                      |
+| ...      | ...      | ...                | ...                                                                   |
+
 * What would you permit companies to do with you data?
 * What would you permit companies to NOT do with you data?
 
 ## In-class group task
 
-* Apply the ethical framework create policies governing the use of your digital footprint to maximum good minimize harm
+* Apply the ethical framework to create policies governing the use of your digital footprint to maximize good and minimize harm.

@@ -1,20 +1,20 @@
 <img align="left" width="120" height="120" src="https://github.com/anwala/teaching-web-science/blob/main/fall-2022/wm_vertical_stacked_full_color.png" alt="wm_vertical_stacked_full_color">
 
-# W&M DATA 641-01/445-01 - Network Analysis, Spring 2024 Syllabus
+# W&M DATA 202-02 - Ethics in Data Science, Fall 2024 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Self](https://github.com/anwala/teaching-network-analysis/blob/main/spring-2024/syllabus.md)
+[Jump to Summary Schedule](#summary-schedule) | [Self](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/syllabus.md)
 
 ## Course Overview
 
-Networks are everywhere in our lives: networks of friends on social media, the Web, networks of neurons in our brains, etc. It's amazing that such a simple representation --- dots and lines --- can capture a variety of relationships, whether simple or complex.
+This course provides an introduction to critical, ethical, and moral issues surrounding data and society. It blends social and technological perspectives on data with ethics, policy, and case examples. We will explore a broad range of topic --- from Algorithmic Bias to Interpretability in Machine Learning --- to help students develop a workable understanding of current ethical issues in data science. 
 
-**Catalog Description:** In this course, we will survey a broad range of fundamental topics in network science, relevant to students from data/computer science and engineering, informatics, business, biology, physics, statistics, social sciences, etc. For example, we will explore the properties of social networks and the key role of hubs, and how directed and weighted networks affect the spread of information and misinformation in social media. These topics are important and useful in many job sectors from marketing to technology, management to design, and from biology to the arts and humanities. 
+Moreover, the course examines the ethical questions and dilemmas that arise in the development of technologies that affect the lives of peoples. Students will debate issues surrounding bias, privacy, surveillance, discrimination, and transparency, throughout the development life cycle of applications – from dataset generation to model development and evaluation.
 
-**Prerequisites:** DATA 301 OR MATH 351/352 OR MATH 451/452
+**Prerequisites:** DATA 201, 146 or CSCI 146.
 
 ## Course Venue and Time
 
-Integrated Science Center, room 0280. Tuesdays/Thursdays 11am -– 12:20 pm
+John E. Boswell Hall, room 102. Tuesdays/Thursdays 8am -– 9:20am
 
 ## Instructor Contact and Office Hours
 
@@ -27,78 +27,45 @@ Dr. Alexander C. Nwala
 
 After completing this course, you should be able to do the following:
 
-* Explain the [fundamental concepts of networks](https://sites.google.com/a/binghamton.edu/netscied/teaching-learning/network-concepts)
-* To load, manipulate, export, and visualize networks using tools and programming languages such as Python/NetworkX, and Gephi
-* Describe the structural components and properties of a network (e.g., nodes, links, degree, connectivity, sparsity, paths, etc.)
-* Identify and explain various network phenomena such as small-worlds and homophily 
-* Explain network structure and various algorithms on the Web, (e.g., PageRank used by search engines to rank Webpages)
-* Utilize node centrality measures and their distributions to identify the most important nodes in a network and describe their roles
-* Explain important properties of real-world networks (e.g., heterogeneous distribution of node/link properties, small-world)
-* Explain the fundamental concepts of community detection and utilize community detection algorithms
-* Explain fundamental network models and their flaws (e.g.,Erdös-Renyi Random Graph Model, Watts–Strogatz Small-world model)
-* [Synthesize and apply critical analysis, solve problems in the Networks domain, create original material or original scholarship, and communicate effectively with diverse audiences.](https://web.archive.org/web/20231226205314/https://www.wm.edu/as/undergraduate/coll/400/)
-* Cultivate an appreciation of the wide applicability of network science to many domains, including the Web and social media, biology, and business.
+* Develop a mental framework to identify ethical dilemmas and issues that manifest in data collection and algorithm development/deployment.
+
+* Explain the current ethical issues in Data Science, Artificial Intelligence/Machine-Learning
+
+* Apply pre-existing theories to understand and propose solutions to a particular ethical issue.
+
 * Etc.
-
-## Requirements
-
-### Prerequisites
-
-Prerequisites: Student should have taken DATA 301 OR MATH 351/352 OR MATH 451/452 OR approval from the instructor.
-
-We will be using Python this semester. You are not required to know Python ahead of time, but since *you are required to have previous programming experience*, I expect you to be able to pick up the syntax quickly. If you are unfamiliar with Python, I strongly suggest that you spend a bit of time with it before the semester begins.
-
-Here are some good Intro to Python resources:
-
-* [Python Tutorial](https://www.w3schools.com/python/default.asp)
-* [Introduction to Python](http://introtopython.org/)
-* [CS 1110: Introduction to Computing Using Python](http://www.cs.cornell.edu/courses/cs1110/2012fa/) (Cornell University)
-* [A Gentle Introduction to Programming Using Python](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-189-a-gentle-introduction-to-programming-using-python-january-iap-2011/lectures/) (MIT)
-* [Python Track: Introduction](http://courses.cms.caltech.edu/cs11/material/python/index.html) (Cal Tech)
-* [Python in One Easy Lesson](http://www-cs-faculty.stanford.edu/~nick/python-in-one-easy-lesson/), Nick Parlante
 
 ### Textbook
 
-The recommended textbook for this class is: 
-
-> Menczer, F., Fortunato, S., & Davis, C. (2020). [A First Course in Network Science](https://www.amazon.com/First-Course-Network-Science/dp/1108471137). Cambridge: Cambridge University Press. doi:10.1017/9781108653947
-
-Reach out to me if you're unable to get a personal copy. See also,
-
-> [Textbook Github account](https://github.com/CambridgeUniversityPress/FirstCourseNetworkScience)
-
-I also recommend:
-
-> Barabási, A., (2016). [Network Science](http://networksciencebook.com/). Cambridge: Cambridge University Press. doi:10.1098/rsta.2012.0375
+There is no recommended textbook for this class is. Each module is accompanied with online resources. In a few cases however, we will read from [Kirsten Martin's](https://kirstenmartin.net/) [Ethics of Data and Analytics: Concepts and Cases](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/g9pr7p/alma991033870654103196), which is available online through the William & Mary Library.
 
 ## Grading
 
-There will be a total of **94 points** (50 points for assignments, 30 points for final exam (no midterms), 20 points for participation), and **4 extra** credits points. I'd advise you to do as many extra credits as possible. Consider them as a safety net.
+There will be a total of **100 points** (60 points for assignments, 20 points for final exam (no midterms), and 20 points for participation).
 
 ### Assignment Types
 
-I will post all assignments on our DATA 641-01 Piazza forum. Your grade in this class will be based on the following components:
+I will post all assignments on our [DATA 202-02 course website](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/README.md). Your grade in this class will be based on the following components:
 
-**Homework (HW)** - **50** points
+**Homework (HW)** - **60** points
 
-* 5 homework assignments (HW0 -- HW4), each worth 10 points
-* *Don't wait until the last minute --- some are hard and time-consuming!*
+* 4 homework assignments (HW1 -- HW4), each worth 15 points
 * All work must be your own. You may use resources (e.g., Stack Overflow) on the Internet for reference. If you use online resources, you must cite your sources (including URL). Group work on HW assignments is not acceptable.
 
 **Participation/Attendance** - **20** points
 
-Participation is very important, it improves learning and contributes additional dimensions to discussions. I'd encourage participation by assigning scores to the following activities throughout the semester:
-* 2 point maximum per week: Unannounced in-class quizzes
+Participation is very important and contributes additional dimensions to discussions. You are expected to complete all assigned readings before class and ready to discuss with your peers, and apply the materials during class learning activities. 
+
+Throughout the semester you will have the opportunity to accumulate a maximum of **20** participation points (2 points maximum per week) for the following in-class activities: 
+1. Summary of concept
+2. Summary of case
+3. Contribution of important points or questions grounded in cases/concept
+4. Participating in in-class individual task
+5. Participating in in-class group task/debate
 
 **No Midterm exam**
 
-**Group project (final exam)**- **30** points
-
-**Extra-credit points** - *4* points
-
-### Graduate students (DATA 641-01)
-
-Graduate students are expected to implement the final exam individually while undergraduate students (DATA 445-01) are allowed to form groups.
+**Final exam (Group project with individual component)**- **20** points
 
 ### Grading Scale
 
@@ -115,54 +82,56 @@ Graduate students are expected to implement the final exam individually while un
 
 *Note: This is a tentative schedule and may change during the semester.*
 
-[W&M Spring 2024 academic schedule](https://www.wm.edu/offices/registrar/calendarsandexams/ugcalendars/index.php#spring)
+[W&M Fall 2024 academic schedule](https://www.wm.edu/offices/registrar/calendarsandexams/ugcalendars/index.php#fall)
 
 |Module |Lecture Dates|Topic
-|---|---|---|
-|1|Jan 25          | Introductions                        
-|2|Jan 30 & Feb 1  | Network Elements                     
-|3|Feb 6 & 8       | Network Analysis toolkit             
-|4|Feb 13 & 15     | Small Worlds                         
-|5|Feb 20 & 22     | Node centrality (importance) metrics 
-|6|Feb 27/29 & Mar 5 | Link Analysis                      
-|7|Mar 7           | Network Visualization                
-| | Mar 9 -- 17    |**NO CLASS - Spring Break**           
-|8|Mar 19 & 21     | Erdös-Renyi Random Graph Model       
-| | Mar 25         |*Withdrawal deadline*                 
-|9|Mar 26 & 28     | Small world models                   
-|10|Apr 2 & 4      | Preferential attachment models       
-|11|Apr 9 & 11     | Communities                          
-|12|Apr 16 & 18    | Building [StoryGraph](https://web.archive.org/storygraph/) 
-|13|Apr 23 & 25    | Modeling social media behaviors with [BLOC](https://doi.org/10.1140/epjds/s13688-023-00410-9) 
-|14|Apr 30 & May 2 | Group project status updates/Q&A
-|  | Fri, May 3    |*last day of classes*            
-|15| Tue, May 14 (2pm ET) | Final exam                                 
+|---|---|---|---|
+|01| Aug 29 & Sep 3 | [Introductions](https://docs.google.com/presentation/d/1dGQE8uw04xB06d-hbzV8BSomjPdbGt7SgchiI91LKms/edit?usp=sharing) and [People as data generators/Ethical framework](modules/module_01.md)
+|02| Sep  5 &    10 | [Part 1: Introduction to Algorithmic Bias](modules/module_02a.md) 
+|03| Sep 12 &    17 | [Part 2: Introduction to Algorithmic Bias](modules/module_02b.md)
+|04| Sep 19 &    24 | [Privacy](modules/module_03.md)
+|05| Sep 26 & Oct 1 | [Biased Datasets](modules/module_04.md)
+|06| Oct 3  &     8 | [Fairness and Justice](modules/module_05.md)
+|  | Oct 10 --   13 | **NO CLASS - Fall Break**                                                                                                    |
+|07| Oct 15 &    17 | [Part 1: Mass Surveillance](modules/module_06a.md)
+|08| Oct 22 &    24 | [Part 2: Mass Surveillance](modules/module_06b.md)
+|09| Oct 29 & Oct 31| [Disparate Impact](modules/module_07.md)
+|  | Nov 5          | **NO CLASS - Election Day, Go Vote! 🗳️**                                                                                     |
+|10| Nov 7 &     12 | [Content Moderation](modules/module_08.md)
+|11| Nov 14 &    19 | [Interpretability in Machine Learning](modules/module_09.md)
+|12| Nov 21 &   26  | [Measuring Accuracy](modules/module_10.md)                                                                           |
+|  | Nov 27 -- Dec 1| **NO CLASS - Thanksgiving Break**                                                                                            |
+|13| Dec 3 &      5 | Group project clinic
+|  | Dec 6          | *last day of classes*
 
 
 ### Add/drop and withdrawal deadlines:
-* Add/drop deadline: February 2, 2024
-* Withdrawal deadline: March 25, 2024
+* Add/drop deadline: September 9, 2024
+* Withdrawal deadline: October 28, 2024
 
 ## Course History
 
-This course was originally developed by my Post-doc supervisor [Dr. Filippo Menczer](https://cnets.indiana.edu/fil/).
-I taught an undergraduate section of this course [Spring 2023](https://github.com/anwala/teaching-network-science/blob/main/spring-2023/README.md). 
+This course was previously taught by [Dr. Jaime Settle](https://jsettle.people.wm.edu/index.html), Associate Professor of the Government Department at William & Mary.
 
-The current edition heavily borrows content/structure from,
-* Filippo Menczer, Santo Fortunato, and Clay Davis @ Indiana University
-* Pedro Ribeiro @ UPorto
-* Jure Leskovec @ Stanford University
-* Andrew Beveridge @ Macalester College
+The current edition heavily borrows structure & content from [Dr. Kirsten Martin's](https://kirstenmartin.net/), Ethics of Data Analytics course. She is the William P. and Hazel B. White Professor of Technology Ethics and Professor of IT, Analytics, and Operations in the Mendoza College of Business at the University of Notre Dame.
 
 ## Course Policies
 
 ### Piazza
 
-Each student must check the class [Piazza (DATA 641-01/445-01)](https://piazza.com/class/lqmv9jitawl3a4/) daily. You should use our class Piazza forum to ask and answer general course-related questions. I will use Piazza to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
+Each student must check the class [Piazza (DATA 202-02)](https://piazza.com/class/lz70wfvqakt7fu/) daily. You should use our class Piazza forum to ask and answer general course-related questions. I will use Piazza to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
 
 ### Participation
 
-Regularly stay involved in class activities. This includes checking Piazza for announcements, submitting assignments on time, and responding to discussion posts in a timely manner.
+Regularly stay involved in class activities. This includes completing all assigned readings before class, engaging in in-class individual/group activities, checking Piazza for announcements, submitting assignments on time, and responding to discussion posts in a timely manner.
+
+### Generative AI Use
+
+One of the most important skills you could learn is problem-solving; the ability to go from knowing nothing about a subject, to navigating little or vast amounts of information to address the questions, in order to develop an understanding of the subject. This process is not straightforward, sometimes is involves trial and error through experimentation. It can be frustrating and difficult and requires patience and diligence. But developing good problem-solving skills is rewarding and gives you the ability to become an independent researcher who can be entrusted with solving problems.
+
+I believe using generative AI technology to **think** for you, could suppress your problem-solving skills and rob you of the opportunity to develop the cognitive ability to navigate the unknown. So I will not permit using of generative AI as a substitute for your mental process. You may use the technology to find information (ensure to verify the accuracy) as long as you note when you use it.
+
+For more details on good and bad use of generative AI, watch [AI can do your homework. Now what?](https://www.youtube.com/watch?v=bEJ0_TVXh-I)
 
 ### Seeking Help
 
@@ -191,7 +160,7 @@ The Honor Code prohibits lying, cheating, and stealing. For definitions of each 
   * Unauthorized Dual Submission of Previous Academic Work
   * Time Constraint Violation
   * Directions Violation
-* **Stealing:** knowingly taking or appropriating the property of another, including property of the university, without the rightful owner’s permission and with the intent to deprive the owner of the property permanently or substantially. One does not receive rightful permission if it is induced by fraud or deception.
+* **Stealing:** knowingly taking or appropriating the property of another, including property of the university, without the rightful owner's permission and with the intent to deprive the owner of the property permanently or substantially. One does not receive rightful permission if it is induced by fraud or deception.
 
 ## Mental health and Statement from W&M's Counseling Center
 
