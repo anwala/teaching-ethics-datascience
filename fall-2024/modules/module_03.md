@@ -22,7 +22,7 @@ We will focus on the third definition and investigate whether current targeted a
 
 * [Tracking Overview: Angwin. J. 2020. "What They Know...Now" The Markup.](https://web.archive.org/web/20240614111750/https://themarkup.org/blacklight/2020/09/22/what-they-know-now)
 
-## In-class group task: discussion/questions
+## In-class group task: discussion/questions (randomized group assignment)
 
 Using the Transparency and Consent Framework (TCF), 
 * Enumerate specific targeted advertising technologies/cases that violate privacy.

@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Computer bias --- the ability of a computer systems to systematically and unfairly discriminates against certain individuals (or groups) in favor of others --- has serious consequences in healthcare, law enforcement, economics, etc. 
+Computer bias --- the ability of a computer system to systematically and unfairly discriminates against certain individuals (or groups) in favor of others --- has serious consequences in healthcare, law enforcement, economics, etc. 
 
 Here, we will learn about computer bias, how to identify the various forms of computer bias, the sources, and how those biases could be ethical or unethical.
 
@@ -17,6 +17,10 @@ Here, we will learn about computer bias, how to identify the various forms of co
 
 * [Guo, Eileen and Karen Hao. "This is the Stanford vaccine algorithm that left out frontline doctors" MIT Technology Review](https://web.archive.org/web/20240425065403/https://www.technologyreview.com/2020/12/21/1015303/stanford-vaccine-algorithm/)
 
-## In-class group task
+## In-class group task (random group assignment)
 
 * Fix the Stanford's vaccine disbursement algorithm: What are the desired outcomes? Specify your algorithm.
+
+## In-class group debate
+
+* To reduce bias in decision making surrounding major issues in healthcare, criminal justices, etc., **humans** (or **machines**) should be employed.

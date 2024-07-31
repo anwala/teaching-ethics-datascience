@@ -19,7 +19,7 @@ Here, we will explore how our interaction with technology generates data and inv
 | **Item** | **Time** | **Activity**       | **Digital trace**                                                     |
 |----------|----------|--------------------|-----------------------------------------------------------------------|
 | 1.       | 6am      | Check weather      | Location data                                                         |
-| 2.       | 6am      | Check smart watch  | Location, Heart rate, sleep information, physical activity level, etc |
+| 2.       | 6am      | Check smart watch  | Location, Heart rate, sleep information, physical activity level, etc. |
 | 3.       | 6:30 am  | Check school email | All student/faculty interactions                                      |
 | ...      | ...      | ...                | ...                                                                   |
 
