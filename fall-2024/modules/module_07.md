@@ -16,8 +16,7 @@ Here, we will study the model development cycle of predictive models to learn wh
 
 * [Heaven, Will Douglas. 2021. "Bias isn't the only problem with credit scores—and no, AI can't help." MIT Technology Review.](https://web.archive.org/web/20240330140827/https://www.technologyreview.com/2021/06/17/1026519/racial-bias-noisy-data-credit-scores-mortgage-loans-fairness-machine-learning/)
 
-* [Pangburn, DJ. 2019. "Schools are using software to help pick who gets in. What could go wrong?" Fast Company.](https://www.fastcompany.com/90342596/schools-are-quietly-
-turning-to-ai-to-help-pick-who-gets-in-what-could-go-wrong)
+* [Pangburn, DJ. 2019. "Schools are using software to help pick who gets in. What could go wrong?" Fast Company.](https://www.fastcompany.com/90342596/schools-are-quietly-turning-to-ai-to-help-pick-who-gets-in-what-could-go-wrong)
 
 ## In-class individual tasks
 
