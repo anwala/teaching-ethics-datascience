@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Machine learning/AI models are used to allocate (scarce) resources (e.g., vaccines, medical care, loans), which naturally raises questions fairness. Here we study the ideas of *Justice and Fairness*, to analyze whether the COMPAS sentencing algorithm is fair.
+Machine Learning/AI models are used to allocate (scarce) resources (e.g., vaccines, medical care, loans), which naturally raises questions fairness. Here we study the ideas of *Justice and Fairness*, to analyze whether the COMPAS sentencing algorithm is fair.
 
 ## Concepts
 
@@ -23,3 +23,7 @@ Bias," ProPublica (May 23, 2016)](https://web.archive.org/web/20240630145925/htt
 ## In-class discussion/questions
 
 * Is using COMPAS to make sentencing or parole decisions fair? Why or why not?
+
+## In-class group task
+
+* Develop a fair and just sentencing or parole system. What are the principles to ensure fairness? What are the limitations?

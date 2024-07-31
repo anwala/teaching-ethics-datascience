@@ -19,7 +19,7 @@ Part 1:
 * Optional: [Thompson, S. Warzel, C. How to Track President Trump. 2019 NY Times](https://www.nytimes.com/interactive/2019/12/20/opinion/location-data-national-security.html)
 
 Part 2:
-* [Thompson, S. Wezerek, G. Freaked Out? 3 Steps to Protect Your Phone. 2019 NY Times]](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html)
+* [Thompson, S. Wezerek, G. Freaked Out? 3 Steps to Protect Your Phone. 2019 NY Times](https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-privacy-tips.html)
 * [Thompson, S. Warzel, C. Smartphones Are Spies. Here's Whom They Report To. 2019 NY Times](https://www.nytimes.com/interactive/2019/12/20/opinion/location-tracking-smartphone-marketing.html)
 * [The NY Times Editorial Board. Total Surveillance Is Not What America Signed Up For. 2019 NY Times](https://web.archive.org/web/20191222222328/https://www.nytimes.com/interactive/2019/12/21/opinion/location-data-privacy-rights.html)
 

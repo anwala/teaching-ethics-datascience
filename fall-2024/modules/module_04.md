@@ -18,7 +18,7 @@ Hanna Wallach, Hal Daumé III, and Kate Crawford. "Datasheets for datasets." arX
 * [Buolamwini, Joy, and Timnit Gebru How well do IBM, Microsoft, and Face++ AI
 services guess the gender of a face?](http://gendershades.org)
 
-* [Quach, K. 2020. MIT apologizes, permanently pulls offline huge dataset that
+* Optional: [Quach, K. 2020. MIT apologizes, permanently pulls offline huge dataset that
 taught AI systems to use racist, misogynistic slurs.](https://www.theregister.com/2020/07/01/mit_dataset_removed/)
 
 ## In-class group task: discussion/questions
