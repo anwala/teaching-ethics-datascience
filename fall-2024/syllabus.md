@@ -29,7 +29,7 @@ After completing this course, you should be able to do the following:
 
 * Develop a mental framework to identify ethical dilemmas and issues that manifest in data collection and algorithm development/deployment.
 
-* Explain the current ethical issues in Data Science, Artificial Intelligence/Machine-Learning
+* Explain the current ethical issues in Data Science, Artificial Intelligence/Machine-Learning.
 
 * Apply pre-existing theories to understand and propose solutions to a particular ethical issue.
 
@@ -37,7 +37,7 @@ After completing this course, you should be able to do the following:
 
 ### Textbook
 
-There is no recommended textbook for this class is. Each module is accompanied with online resources. In a few cases however, we will read from [Kirsten Martin's](https://kirstenmartin.net/) [Ethics of Data and Analytics: Concepts and Cases](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/g9pr7p/alma991033870654103196), which is available online through the William & Mary Library.
+There is no recommended textbook for this class. Each module is accompanied with online resources. In a few cases however, we will read from [Dr. Kirsten Martin's](https://kirstenmartin.net/) [Ethics of Data and Analytics: Concepts and Cases](https://wm.primo.exlibrisgroup.com/permalink/01COWM_INST/g9pr7p/alma991033870654103196), which is available online through the William & Mary Library.
 
 ## Grading
 
@@ -50,15 +50,15 @@ I will post all assignments on our [DATA 202-02 course website](https://github.c
 **Homework (HW)** - **60** points
 
 * 4 homework assignments (HW1 -- HW4), each worth 15 points
-* All work must be your own. You may use resources (e.g., Stack Overflow) on the Internet for reference. If you use online resources, you must cite your sources (including URL). Group work on HW assignments is not acceptable.
+* All work must be your own. You may use resources on the Internet for reference as long as you cite your sources (including URL). Group work on HW assignments is not acceptable.
 
 **Participation/Attendance** - **20** points
 
-Participation is very important and contributes additional dimensions to discussions. You are expected to complete all assigned readings before class and ready to discuss with your peers, and apply the materials during class learning activities. 
+Participation is very important and contributes additional dimensions to discussions. You are expected to complete all assigned readings before class and be ready to discuss with your peers, and apply your knowledge during class learning activities. 
 
 Throughout the semester you will have the opportunity to accumulate a maximum of **20** participation points (2 points maximum per week) for the following in-class activities: 
-1. Summary of concept
-2. Summary of case
+1. Summary of a concept
+2. Summary of a case
 3. Contribution of important points or questions grounded in cases/concept
 4. Participating in in-class individual task
 5. Participating in in-class group task/debate
@@ -85,7 +85,7 @@ Throughout the semester you will have the opportunity to accumulate a maximum of
 [W&M Fall 2024 academic schedule](https://www.wm.edu/offices/registrar/calendarsandexams/ugcalendars/index.php#fall)
 
 |Module |Lecture Dates|Topic
-|---|---|---|---|
+|---|---|---|
 |01| Aug 29 & Sep 3 | [Introductions](https://docs.google.com/presentation/d/1dGQE8uw04xB06d-hbzV8BSomjPdbGt7SgchiI91LKms/edit?usp=sharing) and [People as data generators/Ethical framework](modules/module_01.md)
 |02| Sep  5 &    10 | [Part 1: Introduction to Algorithmic Bias](modules/module_02a.md) 
 |03| Sep 12 &    17 | [Part 2: Introduction to Algorithmic Bias](modules/module_02b.md)
@@ -127,9 +127,9 @@ Regularly stay involved in class activities. This includes completing all assign
 
 ### Generative AI Use
 
-One of the most important skills you could learn is problem-solving; the ability to go from knowing nothing about a subject, to navigating little or vast amounts of information to address the questions, in order to develop an understanding of the subject. This process is not straightforward, sometimes is involves trial and error through experimentation. It can be frustrating and difficult and requires patience and diligence. But developing good problem-solving skills is rewarding and gives you the ability to become an independent researcher who can be entrusted with solving problems.
+One of the most important skills you could learn is problem-solving; the ability to go from knowing nothing about a subject, to navigating little or vast amounts of information to address question, and develop an understanding of the subject. This process is not straightforward, sometimes is involves trial and error through experimentation. It can be frustrating and difficult and requires patience and diligence. But developing good problem-solving skills is rewarding and gives you the ability to become an independent researcher who can be entrusted with solving problems.
 
-I believe using generative AI technology to **think** for you, could suppress your problem-solving skills and rob you of the opportunity to develop the cognitive ability to navigate the unknown. So I will not permit using of generative AI as a substitute for your mental process. You may use the technology to find information (ensure to verify the accuracy) as long as you note when you use it.
+I believe using generative AI technology to **think** for you, could suppress your problem-solving skills and rob you of the opportunity to develop the cognitive ability to navigate the unknown. So I will not permit using of generative AI as a substitute for your mental process. However, you may use the technology to find information (ensure to verify the accuracy) as long as you note when you use it.
 
 For more details on good and bad use of generative AI, watch [AI can do your homework. Now what?](https://www.youtube.com/watch?v=bEJ0_TVXh-I)
 
