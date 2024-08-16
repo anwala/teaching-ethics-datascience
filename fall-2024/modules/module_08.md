@@ -2,7 +2,9 @@
 
 ## Introduction
 
-The version of social media that you see is a sanitized version, where extremely violent content and (sometimes) sexual content, fraud, etc., has been scrubbed. While it's easy to justify the removal of such content, it's not always clear whether to remove dis or misinformation or what kind of to remove since this could stray into the territory of censoring free speech. Welcome to the world of content moderation where social media platforms much address the dilemmas arising from choosing what and what not to keep online. There have been successes and failures, and social media platforms are still modifying their content moderation policies.
+The version of social media that you see is a sanitized version, where extremely violent content and (sometimes) sexual content, fraud, etc., has been scrubbed. While it's easy to justify the removal of such content, it's not always clear whether to remove dis or misinformation (or what kind to remove) since this could stray into the territory of censoring free speech. 
+
+Welcome to the world of content moderation where social media platforms much address the dilemmas arising from choosing what and what not to keep online. There have been successes and failures, and social media platforms are still modifying their content moderation policies.
 
 Here, we will learn about the various challenges and issues surrounding content moderation with a focus on Facebook --- the largest social media platform globally.
 
@@ -19,6 +21,6 @@ Here, we will learn about the various challenges and issues surrounding content 
 2. Who should matter when making a recommender system? Content moderation system? Give an example of content and who should be considered.
 3. Should Facebook do more to control their content? Why? Who should they take into consideration when making this decision?
 
-## In-class group debate
+## In-class group activity
 
-* The line between content moderation and free speech.
+* Where should we draw the line between content moderation and free speech. What kinds of content should be removed or labeled?

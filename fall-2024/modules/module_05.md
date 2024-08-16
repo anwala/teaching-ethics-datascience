@@ -18,7 +18,7 @@ Optional:
 * [Compas Algorithm. Julia Angwin, Jeff Larson, Surya Mattu, Lauren Kirchner, "Machine
 Bias," ProPublica (May 23, 2016)](https://web.archive.org/web/20240630145925/https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-* [Angwin, J. Larson, J. 2016. Bias in Criminal Risk Scores Is Mathematically Inevitable,Researchers Say. ProPublica.](https://web.archive.org/web/20240713125852/https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)
+<!--* [Angwin, J. Larson, J. 2016. Bias in Criminal Risk Scores Is Mathematically Inevitable,Researchers Say. ProPublica.](https://web.archive.org/web/20240713125852/https://www.propublica.org/article/bias-in-criminal-risk-scores-is-mathematically-inevitable-researchers-say)-->
 
 ## In-class discussion/questions
 

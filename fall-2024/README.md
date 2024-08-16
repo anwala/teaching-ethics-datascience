@@ -3,6 +3,7 @@
 ## Links
 
 * [Syllabus](syllabus.md)
+* [Piazza (DATA 202-02)](https://piazza.com/class/lz70wfvqakt7fu/)
 
 ## Summary Schedule
 

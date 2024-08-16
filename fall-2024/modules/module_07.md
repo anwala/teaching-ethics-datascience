@@ -26,4 +26,4 @@ Here, we will study the model development cycle of predictive models to learn wh
 
 ## In-class group task
 
-* If we were to design a project for admissions to college, how would you design it? We will work on this in class
+* If we were to design a project for admissions to college, how would you design it?

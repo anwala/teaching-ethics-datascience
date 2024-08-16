@@ -8,7 +8,7 @@ Here we will learn about the concept of interpretability in Machine Learning and
 
 ## Concepts
 
-* [Molnar, Christoph. "Interpretability" in A guide for making black box models explainable. 2024.](https://christophm.github.io/interpretable-ml-book/interpretability.html)
+* [Molnar, Christoph. "Interpretability" in A guide for making black box models explainable. 2024.](https://christophm.github.io/interpretable-ml-book/interpretability.html) and [Molnar, Christoph. "Importance of Interpretability" in A guide for making black box models explainable. 2024.](https://christophm.github.io/interpretable-ml-book/interpretability-importance.html)
 
 ## Cases
 
