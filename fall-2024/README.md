@@ -25,4 +25,4 @@
 |12| Nov 21 &   26  | [Measuring Accuracy](modules/module_10.md) |                                                                                           |
 |  | Nov 27 -- Dec 1| **NO CLASS - Thanksgiving Break**                                                                                            |
 |13| Dec 3 &      5 | Group project clinic |
-|  | Dec 6          | *last day of classes*|
+|  | Dec 7          | *last day of classes*|
