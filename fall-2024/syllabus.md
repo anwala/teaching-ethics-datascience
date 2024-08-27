@@ -127,9 +127,9 @@ Regularly stay involved in class activities. This includes completing all assign
 
 ### Generative AI Use
 
-One of the most important skills you could learn is problem-solving; the ability to go from knowing nothing about a subject, to navigating little or vast amounts of information to address question, and develop an understanding of the subject. This process is not straightforward, sometimes is involves trial and error through experimentation. It can be frustrating and difficult and requires patience and diligence. But developing good problem-solving skills is rewarding and gives you the ability to become an independent researcher who can be entrusted with solving problems.
+One of the most important skills you could learn is problem-solving; the ability to go from knowing nothing about a subject, to navigating little or vast amounts of information to address questions, and develop an understanding of the subject. This process is not straightforward, sometimes it involves trial and error through experimentation. It can be frustrating and difficult and requires patience and diligence. But developing good problem-solving skills is rewarding and gives you the ability to become an independent researcher who can be entrusted with solving problems.
 
-I believe using generative AI technology to **think** for you, could suppress your problem-solving skills and rob you of the opportunity to develop the cognitive ability to navigate the unknown. So I will not permit using of generative AI as a substitute for your mental process. However, you may use the technology to find information (ensure to verify the accuracy) as long as you note when you use it.
+I believe using generative AI technology to **think** for you, could suppress your problem-solving skills and rob you of the opportunity to develop the cognitive ability to navigate the unknown. So I don't permit using generative AI as a substitute for your mental process. However, you may use the technology to find information (ensure to verify the accuracy) as long as you note when you use it.
 
 For more details on good and bad use of generative AI, watch [AI can do your homework. Now what?](https://www.youtube.com/watch?v=bEJ0_TVXh-I)
 
