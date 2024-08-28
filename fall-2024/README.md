@@ -7,7 +7,7 @@
 
 ## Summary Schedule
 
-|Module |Lecture Dates|Topic|Homework (Date assigned -- Due Date)
+|Module |Lecture Dates|Topic
 |---|---|---|
 |01| Aug 29 & Sep 3 | [Introductions](https://docs.google.com/presentation/d/1dGQE8uw04xB06d-hbzV8BSomjPdbGt7SgchiI91LKms/edit?usp=sharing) and [People as data generators/Ethical framework](modules/module_01.md)
 |02| Sep  5 &    10 | [Part 1: Introduction to Algorithmic Bias](modules/module_02a.md) </br> [HW1 Sept 10 -- 17](homework/hw1.md)
