@@ -1,10 +1,11 @@
 # Homework 1 - Ethics in Data Science
 **Due:** September 17, 2024 by 11:59pm
- *Read the entire assignment before starting.*
+
+*Read the entire assignment before starting.*
 
 ### Q1: Create private Github repo  (2 points)
 
-Create a private Github repo for the class. Create 5 folders with names: `hw1`, `hw2`, `hw3`, `hw4`, and `final_exam` for all your assignments:
+Create a private Github repository for the class. Create 5 folders with names: `hw1`, `hw2`, `hw3`, `hw4`, and `final_exam` for all your assignments:
 ```
 data202/
 ├── README.md
@@ -16,7 +17,7 @@ data202/
 ```
 This is where you'll submit all your assignments. Since this is a private Github repo, only you and your collaborators would have access to it. Please add me as a collaborator:```Settings > Collaborators > Add people > type "anwala" > Press select a collaborator above```.
 
-# Q2: Homework Reports (3 points)
+### Q2: Homework Reports (3 points)
 
 1. From the `hw1` folder of your private GitHub assignment repo, create a new Markdown file named `hw1_report.md` and copy the content from [data202_report_template.md](data202_report_template.md) into it. 
 

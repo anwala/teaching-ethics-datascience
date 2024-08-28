@@ -1,8 +1,9 @@
 # Homework 3 - Ethics in Data Science
 **Due:** November 4, 2024 by 11:59pm
- *Read the entire assignment before starting.*
 
-(**Report (5 points for clarity**))
+*Read the entire assignment before starting.*
+
+(**Report - 5 points for clarity**)
 
 ### Mass Surveillance  (10 points)
 
