@@ -1,6 +1,6 @@
 <img align="left" width="120" height="120" src="https://github.com/anwala/teaching-web-science/blob/main/fall-2022/wm_vertical_stacked_full_color.png" alt="wm_vertical_stacked_full_color">
 
-# W&M DATA 202-02 - Ethics in Data Science, Fall 2024 Syllabus
+# W&M DATA 202-01 - Ethics in Data Science, Fall 2024 Syllabus
 
 [Jump to Summary Schedule](#summary-schedule) | [Self](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/syllabus.md)
 
@@ -45,7 +45,7 @@ There will be a total of **100 points** (60 points for assignments, 20 points fo
 
 ### Assignment Types
 
-I will post all assignments on our [DATA 202-02 course website](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/README.md). Your grade in this class will be based on the following components:
+I will post all assignments on our [DATA 202-01 course website](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/README.md). Your grade in this class will be based on the following components:
 
 **Homework (HW)** - **60** points
 
@@ -119,7 +119,7 @@ The current edition heavily borrows structure & content from [Dr. Kirsten Martin
 
 ### Piazza
 
-Each student must check the class [Piazza (DATA 202-02)](https://piazza.com/class/lz70wfvqakt7fu/) daily. You should use our class Piazza forum to ask and answer general course-related questions. I will use Piazza to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
+Each student must check the class [Piazza (DATA 202-01)](https://piazza.com/class/lz70wfvqakt7fu/) daily. You should use our class Piazza forum to ask and answer general course-related questions. I will use Piazza to notify you about important updates (assignment deadline changes, office hours cancellations, etc.).
 
 ### Participation
 

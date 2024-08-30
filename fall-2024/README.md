@@ -1,9 +1,9 @@
-# W&M DATA 202-02 - Ethics in Data Science, Fall 2024
+# W&M DATA 202-01 - Ethics in Data Science, Fall 2024
 
 ## Links
 
 * [Syllabus](syllabus.md)
-* [Piazza (DATA 202-02)](https://piazza.com/class/lz70wfvqakt7fu/)
+* [Piazza (DATA 202-01)](https://piazza.com/class/lz70wfvqakt7fu/)
 
 ## Summary Schedule
 
