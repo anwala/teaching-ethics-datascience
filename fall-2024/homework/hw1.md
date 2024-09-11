@@ -5,7 +5,7 @@
 
 ### Q1: Create private Github repo  (2 points)
 
-Create a private Github repository for the class. Create 5 folders with names: `hw1`, `hw2`, `hw3`, `hw4`, and `final_exam` for all your assignments:
+Create a private Github repository (`data202-01`) for the class. Create 5 folders with names: `hw1`, `hw2`, `hw3`, `hw4`, and `final_exam` for all your assignments:
 ```
 data202/
 ├── README.md
