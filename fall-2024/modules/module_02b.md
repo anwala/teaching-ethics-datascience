@@ -12,4 +12,4 @@ Here, we will explore the idea that technology is not neutral but can embody spe
 
 ## In-class group task
 
-* Categorize various modern technologies (e.g., assembly line, nuclear/solar energy, TV/radio, web, social media, credit cards, airplanes) into Winner's taxonomy of political technologies and discuss their politics and the winners and losers.
+* Categorize various modern technologies, `assembly line`, `TV/radio`, `mobile phones`, `web`, `social media`, `credit cards`, `cars`, `airplanes`, `drones`, `AI`, `etc` into Winner's taxonomy of political technologies. Highlight their politics and the winners and losers.
