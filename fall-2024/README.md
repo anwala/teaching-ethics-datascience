@@ -26,5 +26,4 @@
 |  | Nov 27 -- Dec 1| **NO CLASS - Thanksgiving Break**                                                                                            
 |13| Dec 3 &      5 | Group project clinic
 |  | Dec 7          | *last day of classes*
-
-
+|  | Dec 17         | [Final exam](homework/final_project.md)
