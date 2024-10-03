@@ -6,8 +6,7 @@
 
 The goals of this group project includes fostering and assessing your real-world problem-solving skills, collaboration, time management, and communication skills. These skills are essential for success.
 
-Groups will choose a topic based on one of the class modules, identify a widely used technology
-and concerns surrounding its use, and provide remedies. 
+Groups will choose a topic based on one of the [class modules](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/README.md), identify a widely used technology, the ethical dilemma surrounding its use, and provide remedies by applying a previously explored solution (e.g., [ethical framework](https://web.archive.org/web/20240513055008/https://honors.umaine.edu/wp-content/uploads/sites/184/2020/10/A-Framework-for-Thinking-Ethically.pdf), [transparency & consent framework](https://web.archive.org/web/20240415102757/https://www.linkedin.com/pulse/ethical-considerations-targeted-advertising-data-adjei-ohene-/), [dataset provenance](https://arxiv.org/pdf/1803.09010), [fairness & justice](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/modules/module_05.md)) 
 
 #### Group formation and task division
 
