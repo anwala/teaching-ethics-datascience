@@ -20,15 +20,13 @@ Individual points (8 points):
 * Completeness of task
 * Accuracy
 
-Group points (12 points):
-* Presentation includes project topic summary, concerns.
-* Presentation addresses concerns.
-* Presentation is well-organized and includes few typos/grammatical errors
-* Presentation slides are well-organized and include images to assist illustration and explanations.
-* Presenters effectively communicated their solution to class
-* Clarity
-* Organization
+Group points (12 points - 2 per bullet):
+* Presentation introduces the project topic
+* Presentation presents the ethical dilemma by illustrating the positive and negative (ethical concerns) sides of the technology
+* Presentation includes specific details (e.g., [ethical framework](https://web.archive.org/web/20240513055008/https://honors.umaine.edu/wp-content/uploads/sites/184/2020/10/A-Framework-for-Thinking-Ethically.pdf), [transparency & consent framework](https://web.archive.org/web/20240415102757/https://www.linkedin.com/pulse/ethical-considerations-targeted-advertising-data-adjei-ohene-/), [dataset provenance](https://arxiv.org/pdf/1803.09010), [fairness & justice](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/modules/module_05.md)) addressing ethical concerns
+* Presentation highlights limitations of proposed solutions/future work
 * Correctness/completeness research questions
+* Presentation is well-organized, cites sources, utilizes illustrations (e.g., images) to aid in explanations, and presenter(s) effectively communicated their solution to class
 
 ### Checkpoints
 

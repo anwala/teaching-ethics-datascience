@@ -3,8 +3,6 @@
 
 *Read the entire assignment before starting.*
 
-(**Report - 5 points for clarity**)
-
 ### Mass Surveillance  (10 points)
 
 Revisit your digital [footprint](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/modules/module_01.md#in-class-individual-task). For at least five applications that collect your data, investigate how you can protect your privacy. Specifically, consider the following,

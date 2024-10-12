@@ -33,7 +33,7 @@ This is where you'll submit all your assignments. Since this is a private Github
 
 7. Finally, make sure that your `hw1` folder in your GitHub assignments repo contains the final version of your edited report file (`hw1_report.md`) and your included image.  In your final commit, use the commit message `@anwala ready to grade`.
 
-## Q3: digitial footprint  (10 points)
+## Q3: digitial footprint  (15 points)
 
 Take your digitial footprint data and select at least 3 traces (e.g., location data, body vitals like heart rate and activity) and address the following questions:
 1. Identify specific ways in which organizations are mining (aka using) this data and the purpose.
