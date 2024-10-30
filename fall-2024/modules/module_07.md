@@ -26,4 +26,4 @@ Here, we will study the model development cycle of predictive models to learn wh
 
 ## In-class group task
 
-* If we were to design a project for admissions to college, how would you design it?
+* Create a high-level plan to design a fair college admission system. What measures will you take to ensure fairness and avoid bias?
