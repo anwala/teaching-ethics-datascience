@@ -6,8 +6,8 @@
 ### Mass Surveillance  (10 points)
 
 Revisit your digital [footprint](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/modules/module_01.md#in-class-individual-task). For at least five applications that collect your data, investigate how you can protect your privacy. Specifically, consider the following,
-1. Are there measures you can take to protect your privacy?
-2. Does the application provide you with a mechanism of protecting your privacy?
+1. Are there measures you can take to protect your privacy? This includes actions within your control (e.g., `switching off location tracking in the control panel`)
+2. Does the application provide you with a mechanism of protecting your privacy? This includes actions outside your reach that the application provides (e.g., `end-to-end encryption`)
 
 Ensure to support your responses with citations.
 
