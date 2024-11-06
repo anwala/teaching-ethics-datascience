@@ -18,8 +18,8 @@ Here, we will learn about the various challenges and issues surrounding content 
 ## In-class individual tasks
 
 1. What should be the end goal of a recommender system? Of a content moderation system?
-2. Who should matter when making a recommender system? Content moderation system? Give an example of content and who should be considered.
-3. Should Facebook do more to control their content? Why? Who should they take into consideration when making this decision?
+2. Who should matter when making a recommender system? Give an example of content and who should be considered.
+3. Should Facebook do more to control their content? Why? Especially if such policies adversely affect company profit.
 
 ## In-class group activity
 
