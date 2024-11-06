@@ -4,7 +4,7 @@
 
 The version of social media that you see is a sanitized version, where extremely violent content and (sometimes) sexual content, fraud, etc., has been scrubbed. While it's easy to justify the removal of such content, it's not always clear whether to remove dis or misinformation (or what kind to remove) since this could stray into the territory of censoring free speech. 
 
-Welcome to the world of content moderation where social media platforms much address the dilemmas arising from choosing what and what not to keep online. There have been successes and failures, and social media platforms are still modifying their content moderation policies.
+Welcome to the world of content moderation where social media platforms must address the dilemmas arising from choosing what and what not to keep online. There have been successes and failures, and social media platforms are still modifying their content moderation policies.
 
 Here, we will learn about the various challenges and issues surrounding content moderation with a focus on Facebook --- the largest social media platform globally.
 
