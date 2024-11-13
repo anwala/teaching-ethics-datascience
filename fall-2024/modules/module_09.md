@@ -4,7 +4,7 @@
 
 Interpretability is the degree to which a human can understand the reasoning behind the predictions made by a model. The increasing use of Machine Learning/AI models technology in high-stakes environment such as criminal justice and healthcare, means that model interpretability is crucial for fairness and trust, and assessing the validity and/or appropriateness of predictions.
 
-Here we will learn about the concept of interpretability in Machine Learning and survey various technologies we've visited before to assess there degree of interpretability.
+Here we will learn about the concept of interpretability in Machine Learning and survey various technologies we've visited before to assess their degree of interpretability.
 
 ## Concepts
 
