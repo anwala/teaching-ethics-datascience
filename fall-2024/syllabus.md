@@ -2,7 +2,7 @@
 
 # W&M DATA 202-01 - Ethics in Data Science, Fall 2024 Syllabus
 
-[Jump to Summary Schedule](#summary-schedule) | [Self](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/syllabus.md)
+[Jump to Summary Schedule](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/syllabus.md#summary-schedule) | [Self](https://github.com/anwala/teaching-ethics-datascience/blob/main/fall-2024/syllabus.md)
 
 ## Course Overview
 
@@ -90,20 +90,20 @@ Throughout the semester you will have the opportunity to accumulate a maximum of
 
 |Module |Lecture Dates|Topic
 |---|---|---|
-|01| Aug 29 & Sep 3 | [Introductions](https://docs.google.com/presentation/d/1dGQE8uw04xB06d-hbzV8BSomjPdbGt7SgchiI91LKms/edit?usp=sharing) and [People as data generators/Ethical framework](modules/module_01.md)
-|02| Sep  5 &    10 | [Part 1: Introduction to Algorithmic Bias](modules/module_02a.md) 
-|03| Sep 12 &    17 | [Part 2: Introduction to Algorithmic Bias](modules/module_02b.md)
-|04| Sep 19 &    24 | [Privacy](modules/module_03.md)
-|05| Sep 26 & Oct 1 | [Biased Datasets](modules/module_04.md)
-|06| Oct 3  &     8 | [Fairness and Justice](modules/module_05.md)
+|01| Aug 29 & Sep 3 | [Introductions](https://docs.google.com/presentation/d/1dGQE8uw04xB06d-hbzV8BSomjPdbGt7SgchiI91LKms/edit?usp=sharing) and [People as data generators/Ethical framework](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_01.md)
+|02| Sep  5 &    10 | [Part 1: Introduction to Algorithmic Bias](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_02a.md) 
+|03| Sep 12 &    17 | [Part 2: Introduction to Algorithmic Bias](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_02b.md)
+|04| Sep 19 &    24 | [Privacy](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_03.md)
+|05| Sep 26 & Oct 1 | [Biased Datasets](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_04.md)
+|06| Oct 3  &     8 | [Fairness and Justice](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_05.md)
 |  | Oct 10 --   13 | **NO CLASS - Fall Break**                                                                                                    |
-|07| Oct 15 &    17 | [Part 1: Mass Surveillance](modules/module_06a.md)
-|08| Oct 22 &    24 | [Part 2: Mass Surveillance](modules/module_06b.md)
-|09| Oct 29 & Oct 31| [Disparate Impact](modules/module_07.md)
+|07| Oct 15 &    17 | [Part 1: Mass Surveillance](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_06a.md)
+|08| Oct 22 &    24 | [Part 2: Mass Surveillance](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_06b.md)
+|09| Oct 29 & Oct 31| [Disparate Impact](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_07.md)
 |  | Nov 5          | **NO CLASS - Election Day, Go Vote! 🗳️**                                                                                     |
-|10| Nov 7 &     12 | [Content Moderation](modules/module_08.md)
-|11| Nov 14 &    19 | [Interpretability in Machine Learning](modules/module_09.md)
-|12| Nov 21 &   26  | [Measuring Accuracy](modules/module_10.md)                                                                           |
+|10| Nov 7 &     12 | [Content Moderation](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_08.md)
+|11| Nov 14 &    19 | [Interpretability in Machine Learning](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_09.md)
+|12| Nov 21 &   26  | [Measuring Accuracy](https://github.com/anwala/teaching-ethics-datascience/tree/main/fall-2024/modules/module_10.md)                                                                           |
 |  | Nov 27 -- Dec 1| **NO CLASS - Thanksgiving Break**                                                                                            |
 |13| Dec 3 &      5 | Group project clinic
 |  | Dec 7          | *last day of classes*
