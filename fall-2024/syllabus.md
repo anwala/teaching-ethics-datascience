@@ -33,7 +33,7 @@ After completing this course, you should be able to do the following:
 
 * Apply pre-existing theories to understand and propose solutions to a particular ethical issue.
 
-Since this is a COLL 200-level course, we encourage you to make coherent and meaningful interconnections across academic disciplines and recognize the difference in methodologies, modes of inquiry, and ways of knowing. It is "anchored" in the Cultures, Societies, and the Individual (CSI) knowledge domain. CSI courses "reach out" to one or both of the other knowledge domains (Arts, Letters, and Values (ALV), Natural and Quantitative Reasoning (NQR)), highlighting commonalities and differences among disciplines.
+Since this is a COLL 200-level course, we encourage you to make coherent and meaningful interconnections across academic disciplines and recognize the difference in methodologies, modes of inquiry, and ways of knowing. It is "anchored" in the [Cultures, Societies, and the Individual (CSI)](https://www.wm.edu/as/facultyresources/committees/educationalpolicy/coll-curriculum/200/knowledge-domains/) knowledge domain. CSI courses "reach out" to one or both of the other knowledge domains ([Arts, Letters, and Values (ALV)](https://www.wm.edu/as/facultyresources/committees/educationalpolicy/coll-curriculum/200/knowledge-domains/), [Natural and Quantitative Reasoning (NQR)](https://www.wm.edu/as/facultyresources/committees/educationalpolicy/coll-curriculum/200/knowledge-domains/)), highlighting commonalities and differences among disciplines.
 
 This class is anchored in CSI and reaches out to NQR. Among other course objectives, this course specifically will ask you to:
 1. Master basic ideas and methods central to the primary knowledge domain(s).
